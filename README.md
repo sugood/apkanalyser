@@ -51,7 +51,7 @@
 - ❌ 不包含
 
 
-|名称|包名|版本号|build版本|Flutter|ReactNative|Weex|
+|名称|包名|版本号|build版本|Flutter|RN|Weex|
 |-------|---|-----|--------|-------|-----------|----|
 |58同城|com.wuba|10.18.1|101801|❌ |✅|❌ |
 |AcFun|tv.acfundanmaku.video|6.50.0.1175|1175|❌ |❌ |❌ |
