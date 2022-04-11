@@ -1,4 +1,4 @@
-#！ /bin/bash
+#!/bin/bash
 
 # dirname $0，取得当前执行的脚本文件的父目录
 basepath=$(cd `dirname $0`; pwd)
